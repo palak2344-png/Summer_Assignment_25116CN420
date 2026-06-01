@@ -1,4 +1,4 @@
-#Write a program to count digits in a number.
+//Write a program to count digits in a number.
 #include<stdio.h>
 int main()
 {
