@@ -1,4 +1,4 @@
-#Write a program to find product of digits.
+//Write a program to find product of digits.
 #include<stdio.h>
 int main()
 {
