@@ -1,3 +1,4 @@
+#Write a program to calculate  sum of N  natural numbers.
 #include<stdio.h>
 int main()
 {
@@ -10,6 +11,4 @@ int main()
     }
         printf("the sum of first %d numbers is : %d\n",n,sum);
         return 0;
-
-
 }
