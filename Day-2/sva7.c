@@ -22,18 +22,3 @@ int main()
     printf("product of digits is %lld",product);
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-        return 0;
-
-
-}
